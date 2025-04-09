@@ -1,3 +1,6 @@
+#Install used libraies 
+!pip install pickle
+!pip install streamlit
 import os
 import pickle
 import streamlit as st
